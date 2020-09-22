@@ -6,3 +6,4 @@ git 命令
 修改 4
 get reset HEAD <file>:把暂存区的内容返回工作区
 aaadddd
+kkk844884
